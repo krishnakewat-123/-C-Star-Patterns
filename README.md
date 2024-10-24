@@ -1,4 +1,4 @@
-Here's a sample README content for a GitHub repository containing various C++ pattern programs:
+this repository containing various C++ pattern programs:
 
 **C++ Pattern Programs**
 

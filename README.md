@@ -1,4 +1,4 @@
-this repository containing various C++ pattern programs:
+This repository containing various C++ pattern programs:
 
 **C++ Pattern Programs**
 

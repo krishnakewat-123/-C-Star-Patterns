@@ -1,5 +1,16 @@
 #include<iostream>
 using namespace std;
+/* ############# Description###############
+input rows= 5
+output:
+    
+    *********
+     *     *
+      *   *
+       * *
+        *
+###########################################
+*/
 int main()
 { 
 
